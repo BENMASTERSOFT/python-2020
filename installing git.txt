@@ -25,4 +25,5 @@ $ pwd
 
 
 then type the following
+cat /c/Users/MASTERSOFT/.ssh/id_rsa.pub
 
