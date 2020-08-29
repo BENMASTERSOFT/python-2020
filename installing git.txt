@@ -1,0 +1,28 @@
+Changing directory in BAsh
+
+cd /c/pythonstuff
+
+
+
+Connection to GitHub
+
+1. Setup ssh key
+   a. open up bash terminal
+   b. make a directory .ssh
+   c. cd .ssh
+   d generate ssh key
+     ssh-keygen.exe >press enter
+     > press enter
+     > enter password twice
+type ls
+you will see 
+id_rsa id_rsa.pub
+
+type pwd to see the file location
+
+$ pwd
+/c/pythonstuff
+
+
+then type the following
+
